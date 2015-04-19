@@ -1,0 +1,7 @@
+## Interface: 60100
+## Title: |cffC495DDnTrinketTracker|r
+## Notes: Trinket Tracker from NuggsUI
+## Author: Nuggs
+## Version: 0.0.1
+
+nTrinketTracker.lua
